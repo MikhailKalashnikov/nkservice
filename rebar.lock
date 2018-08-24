@@ -32,7 +32,7 @@
   1},
  {<<"nkpacket">>,
   {git,"https://github.com/MikhailKalashnikov/nkpacket.git",
-       {ref,"079fe000b7e1a1961f989f89a554ef287dec8134"}},
+       {ref,"ac38f3ba3f834e9f5e782064b4f3584a2bfa6b01"}},
   0},
  {<<"ranch">>,
   {git,"https://github.com/ninenines/ranch.git",
